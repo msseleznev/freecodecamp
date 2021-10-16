@@ -100,7 +100,7 @@ function addFive() {
 addThree();
 addFive();
 
-//55
+//54
 var processed = 0;
 
 function processArg(num) {
@@ -109,7 +109,7 @@ function processArg(num) {
 
 processed = processArg(7);
 
-//56
+//55
 function nextInLine(arr, item) {
     // Only change code below this line
 
@@ -128,7 +128,7 @@ console.log(nextInLine(testArr, 6));
 console.log("After: " + JSON.stringify(testArr));
 
 
-//57
+//56
 function welcomeToBooleans() {
 
     // Only change code below this line
@@ -138,7 +138,7 @@ function welcomeToBooleans() {
     // Only change code above this line
 }
 
-//58
+//57
 function trueOrFalse(wasThatTrue) {
     // Only change code below this line
 if (wasThatTrue) {
